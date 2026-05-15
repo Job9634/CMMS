@@ -1,0 +1,203 @@
+/* ============================================================
+   CMMS DATA FILE — Preventive Maintenance Schedules
+   Recurring PM definitions referencing real machine IDs.
+   Editable in-app (PM Schedule module); plain JSON in a .js wrapper.
+   ============================================================ */
+window.CMMS_DB = window.CMMS_DB || {};
+window.CMMS_DB.pmSchedules = [
+  {
+    "id": "PM-001",
+    "title": "Chiller refrigerant & coil service",
+    "assetId": "SUR-014",
+    "frequency": "Monthly",
+    "tasks": "Check refrigerant pressure; inspect compressor operation; clean condenser coil; verify temperature setpoint; log readings",
+    "technician": "S. Wattana",
+    "priority": "High",
+    "estHours": 2.0,
+    "lastDone": "2026-04-08",
+    "nextDue": "2026-05-08",
+    "active": true
+  },
+  {
+    "id": "PM-002",
+    "title": "Air compressor monthly service",
+    "assetId": "LAB-001",
+    "frequency": "Monthly",
+    "tasks": "Drain condensate; check oil level; inspect drive belt tension; clean air intake filter; test safety valve",
+    "technician": "T. Somchai",
+    "priority": "Medium",
+    "estHours": 1.5,
+    "lastDone": "2026-04-18",
+    "nextDue": "2026-05-18",
+    "active": true
+  },
+  {
+    "id": "PM-003",
+    "title": "Polisher spindle & coolant check",
+    "assetId": "SUR-002",
+    "frequency": "Weekly",
+    "tasks": "Inspect spindle for vibration; top up coolant; check coolant filter; wipe down work area",
+    "technician": "P. Niran",
+    "priority": "Medium",
+    "estHours": 0.5,
+    "lastDone": "2026-05-04",
+    "nextDue": "2026-05-11",
+    "active": true
+  },
+  {
+    "id": "PM-004",
+    "title": "Dehumidifier quarterly service",
+    "assetId": "HC-002",
+    "frequency": "Quarterly",
+    "tasks": "Clean evaporator coil; replace filter; check drainage line; verify humidity setpoint",
+    "technician": "T. Somchai",
+    "priority": "Low",
+    "estHours": 1.0,
+    "lastDone": "2026-02-10",
+    "nextDue": "2026-05-12",
+    "active": true
+  },
+  {
+    "id": "PM-005",
+    "title": "Tinting machine seal & temp calibration",
+    "assetId": "TNT-001",
+    "frequency": "Monthly",
+    "tasks": "Inspect all cylinder seals; calibrate dye-bath temperature; check timer controller; clean overflow tray",
+    "technician": "P. Niran",
+    "priority": "Medium",
+    "estHours": 2.0,
+    "lastDone": "2026-04-19",
+    "nextDue": "2026-05-19",
+    "active": true
+  },
+  {
+    "id": "PM-006",
+    "title": "Frame scanner annual calibration",
+    "assetId": "EDG-003",
+    "frequency": "Annual",
+    "tasks": "Clean optical sensor; verify scan accuracy against reference frame; update firmware if available; log calibration certificate",
+    "technician": "K. Anong",
+    "priority": "Low",
+    "estHours": 1.5,
+    "lastDone": "2025-08-01",
+    "nextDue": "2026-08-01",
+    "active": true
+  },
+  {
+    "id": "PM-007",
+    "title": "Voltage stabilizer monthly inspection",
+    "assetId": "MC-001",
+    "frequency": "Monthly",
+    "tasks": "Check terminal tightness; inspect cooling fan; record input/output voltage; check for overheating",
+    "technician": "T. Somchai",
+    "priority": "Low",
+    "estHours": 1.0,
+    "lastDone": "2026-05-02",
+    "nextDue": "2026-06-01",
+    "active": true
+  },
+  {
+    "id": "PM-008",
+    "title": "Ultrasonic cleaner heater & transducer check",
+    "assetId": "HC-003",
+    "frequency": "Monthly",
+    "tasks": "Test heating element; check transducer output; drain and refill tank; inspect thermostat",
+    "technician": "S. Wattana",
+    "priority": "Medium",
+    "estHours": 1.0,
+    "lastDone": "2026-04-15",
+    "nextDue": "2026-05-15",
+    "active": true
+  },
+  {
+    "id": "PM-009",
+    "title": "Film applicator roller cleaning",
+    "assetId": "SUR-001",
+    "frequency": "Weekly",
+    "tasks": "Clean application rollers; check tape tension; remove adhesive residue; inspect cutting blade",
+    "technician": "P. Niran",
+    "priority": "Low",
+    "estHours": 0.5,
+    "lastDone": "2026-05-09",
+    "nextDue": "2026-05-16",
+    "active": true
+  },
+  {
+    "id": "PM-010",
+    "title": "Water-cooled chiller quarterly service",
+    "assetId": "LAB-003",
+    "frequency": "Quarterly",
+    "tasks": "Test water quality; clean condenser; check pump operation; inspect for leaks; log temperature performance",
+    "technician": "T. Somchai",
+    "priority": "Medium",
+    "estHours": 2.5,
+    "lastDone": "2026-03-01",
+    "nextDue": "2026-05-31",
+    "active": true
+  },
+  {
+    "id": "PM-011",
+    "title": "Sandblaster nozzle & media check",
+    "assetId": "MC-003",
+    "frequency": "Monthly",
+    "tasks": "Inspect nozzle wear; check media level and quality; test air pressure; clean dust collector",
+    "technician": "K. Anong",
+    "priority": "Medium",
+    "estHours": 1.0,
+    "lastDone": "2026-04-28",
+    "nextDue": "2026-05-28",
+    "active": true
+  },
+  {
+    "id": "PM-012",
+    "title": "Office AC quarterly filter service",
+    "assetId": "OFF-001",
+    "frequency": "Quarterly",
+    "tasks": "Clean or replace air filter; check drainage; clean condenser fins; verify cooling performance",
+    "technician": "K. Anong",
+    "priority": "Low",
+    "estHours": 0.5,
+    "lastDone": "2026-02-20",
+    "nextDue": "2026-05-22",
+    "active": true
+  },
+  {
+    "id": "PM-013",
+    "title": "Air-cooled chiller monthly check",
+    "assetId": "EDG-001",
+    "frequency": "Monthly",
+    "tasks": "Check refrigerant pressure; clean condenser coil; inspect fan motor; verify ES4 line water temperature",
+    "technician": "S. Wattana",
+    "priority": "Medium",
+    "estHours": 1.5,
+    "lastDone": "2026-04-30",
+    "nextDue": "2026-05-30",
+    "active": true
+  },
+  {
+    "id": "PM-014",
+    "title": "Polisher spindle weekly check",
+    "assetId": "SUR-003",
+    "frequency": "Weekly",
+    "tasks": "Inspect spindle for vibration; top up coolant; check coolant filter; wipe down work area",
+    "technician": "P. Niran",
+    "priority": "Medium",
+    "estHours": 0.5,
+    "lastDone": "2026-05-12",
+    "nextDue": "2026-05-19",
+    "active": true
+  },
+  {
+    "id": "PM-015",
+    "title": "Pad printer ink system cleaning",
+    "assetId": "QC-003",
+    "frequency": "Monthly",
+    "tasks": "Clean ink cup and pad; flush ink lines; inspect cliché plate; test print quality",
+    "technician": "K. Anong",
+    "priority": "Low",
+    "estHours": 1.0,
+    "lastDone": "2026-04-10",
+    "nextDue": "2026-05-10",
+    "active": true
+  }
+];

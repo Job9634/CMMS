@@ -1,0 +1,136 @@
+Old ID,New ID,Machine Name (English),Department
+PM0001,SUR-001,Protective Film Applicator 3M 1645,SURFACE
+PM0002,SUR-002,Conventional Polisher Toro-x-2S,SURFACE
+PM0003,SUR-003,Conventional Polisher Toro-x-2S,SURFACE
+PM0004,SUR-004,Conventional Polisher Toro-x-2S,SURFACE
+PM0005,SUR-005,"Conventional Polisher Toro-X-2S, 2-head, second-hand",SURFACE
+PM0006,SUR-006,Laser Marking Machine Lens-engrarer-Lc,SURFACE
+PM0007,SUR-007,Polisher Torilab,SURFACE
+PM0008,SUR-008,Polisher Torilab,SURFACE
+PM0009,SUR-009,"Blocking Oven D-Blocker-01-900-24, manual",SURFACE
+PM0010,SUR-010,"Blocking Oven semi-automatic, SPL-2014",SURFACE
+PM0011,SUR-011,Polisher CCP-Swift,SURFACE
+PM0012,SUR-012,Flash-Plus,SURFACE
+PM0013,SUR-013,Flash-Plus,SURFACE
+SM0001,SUR-014,Chiller,SURFACE
+SM0002,SUR-015,Air conditioner,SURFACE
+SM0003,SUR-016,Air conditioner,SURFACE
+SM0004,SUR-017,Air conditioner,SURFACE
+SM0005,SUR-018,Exhaust Fan 40 CFM,SURFACE
+PM0019,TNT-001,Tinting Machine 12-cylinder,TINT
+PM0020,TNT-002,Tinting Machine 12-cylinder,TINT
+PM0021,TNT-003,Tinting Machine 12-cylinder,TINT
+PM0022,TNT-004,Tinting Machine 12-cylinder,TINT
+PM0023,TNT-005,"Tinting Machine 12-cylinder, timer control",TINT
+PM0024,TNT-006,Tinting Machine CANTON CT51001-2 12-cylinder,TINT
+SM0006,TNT-007,Exhaust Fan 6000 CFM,TINT
+PM0026,TNT-008,Exhaust Fan 6000 CFM,TINT
+SM0007,HC-001,Lens Abrasion Tester BLD-323,HC
+SM0008,HC-002,"Industrial Dehumidifier YDA-890E, small",HC
+PM0029,HC-003,Single-Tank Ultrasonic Cleaner SUP6028,HC
+PM0030,HC-004,Coating machine,HC
+PM0031,HC-005,OVEN (Medium),HC
+PM0032,HC-006,OVEN (Medium),HC
+PM0033,HC-007,OVEN (Medium),HC
+PM0034,HC-008,OVEN (Medium),HC
+PM0035,HC-009,Clean table,HC
+PM0036,HC-010,Hot plate stirrer,HC
+PM0037,HC-011,DI water machine,HC
+SM0009,HC-012,Chiller,HC
+SM0010,HC-013,Chiller,HC
+SM0011,HC-014,Air purifier,HC
+SM0012,HC-015,Air purifier,HC
+PM0042,HC-016,Refrigerator,HC
+SM0013,HC-017,Air conditioner,HC
+PM0044,HC-018,Electronic Scale,HC
+SM0014,HC-019,Exhaust Fan 90 CFM,HC
+SM0015,HC-020,Exhaust Fan 40 CFM,HC
+PM0047,MC-001,3-Phase High-Power Voltage Stabilizer SBW-S-50KVA,MC
+SM0016,MC-002,"Industrial Dehumidifier Jinsen CFZ7, large",MC
+PM0049,MC-003,Sandblasting Machine SY-1610A,MC
+PM0050,MC-004,UV detector,MC
+PM0051,MC-005,AR machine,MC
+SM0056,MC-006,Vaccum cleaner,MC
+SM0017,MC-007,Air conditioner,MC
+SM0018,MC-008,Air conditioner,MC
+SM0019,MC-009,Air conditioner,MC
+SM0020,MC-010,Chiller,MC
+SM0021,MC-011,"Exhaust Fan 1,600 CFM",MC
+SM0022,EDG-001,Air-Cooled Chiller for ES4,EDGE
+SM0023,EDG-002,Air-Cooled Chiller for ES4,EDGE
+SM0024,EDG-003,Frame Scanner FUJI-300TX(TFT),EDGE
+PM0061,EDG-004,Edger ES4,EDGE
+PM0062,EDG-005,Edger ES4,EDGE
+PM0063,EDG-006,"Edger ez fit, with scanner",EDGE
+PM0064,EDG-007,Blocking Machine 3B Blocker,EDGE
+PM0065,EDG-008,Blocking Machine 3B Blocker,EDGE
+PM0066,EDG-009,Blocking Machine Finish Blocker LS-100,EDGE
+PM0067,EDG-010,Blocking Machine NIDEK CE-9,EDGE
+PM0068,EDG-011,Hand polisher,EDGE
+PM0069,EDG-012,Sloting machine,EDGE
+PM0070,EDG-013,Hand grooving machine,EDGE
+PM0071,EDG-014,Electronic heater,EDGE
+PM0072,EDG-015,Hand edge grinder,EDGE
+PM0073,EDG-016,Hand edge grinder,EDGE
+PM0074,EDG-017,Hand edge grinder,EDGE
+PM0075,EDG-018,Hand edge grinder,EDGE
+PM0076,EDG-019,Manual Pattern Cutter PICHINA Optical Manual Len Edger PM-7000,EDGE
+PM0077,EDG-020,Water Circulation System for ES4,EDGE
+PM0078,EDG-021,Water Circulation System for ES4,EDGE
+SM0025,EDG-022,Air conditioner,EDGE
+SM0026,EDG-023,Air conditioner,EDGE
+PM0081,EDG-024,Kettle (hot boiling water),EDGE
+SM0027,WH1-001,Air conditioner,WH1
+SM0028,WH2-001,Air conditioner,WH2
+SM0029,WH2-002,Air conditioner,WH2
+SM0030,QC-001,Air conditioner,QC
+PM0086,QC-002,Weight scale,QC
+PM0087,QC-003,Pad Printing Machine second-handTECO,QC
+SM0031,QC-004,Exhaust Fan 40 CFM,QC
+SM0032,LAB-001,Air Compressor Bolaite BLT-20A/10,LAB1
+PM0090,LAB-002,3-Phase High-Power Voltage Stabilizer CHNT TNSZ(SBW)-100,LAB1
+PM0091,LAB-003,Water-Cooled Chiller AW-10,LAB1
+SM0033,LAB-004,AHU,LAB1
+SM0034,LAB-005,"Exhaust Fan 1,600 CFM",LAB1
+SM0035,LAB-006,Air conditioner,LAB1
+SM0036,LAB-007,Air conditioner,LAB1
+SM0037,OFF-001,Air conditioner,OFFICE
+SM0038,OFF-002,Air conditioner,OFFICE
+SM0039,OFF-003,Air conditioner,OFFICE
+SM0040,OFF-004,Air conditioner,OFFICE
+SM0041,OFF-005,Air conditioner,OFFICE
+SM0042,OFF-006,Air conditioner,OFFICE
+SM0043,OFF-007,Air conditioner,OFFICE
+SM0044,OFF-008,Air conditioner,OFFICE
+SM0045,OFF-009,Air conditioner,OFFICE
+PM0092,SUR-019,PRA blocker,SURFACE
+PM0093,SUR-020,De-block,SURFACE
+PM0094,SUR-021,Laser engraving machine,SURFACE
+PM0095,SUR-022,Swift -2,SURFACE
+PM0096,SUR-023,Swift -3,SURFACE
+PM0097,SUR-024,Orbit-2E,SURFACE
+SM0046,SUR-025,Chiller-1,SURFACE
+SM0047,SUR-026,Chiller-2,SURFACE
+SM0048,SUR-027,Chiller-3,SURFACE
+SM0049,SUR-028,Chiller-4,SURFACE
+SM0050,SUR-029,Chiller-5,SURFACE
+PM0098,TNT-009,UV Meter Spectrum 700VU,TINT
+PM0099,HC-021,Coating machine,HC
+SM0051,MC-012,De-humidifier,MC
+SM0052,MC-013,Clean table180x130x193 cm + Ionizer,MC
+SM0053,HC-022,OVEN (Small),HC
+SM0054,MC-014,OVEN (Big),MC
+SM0055,HC-023,OVEN (Big),HC
+PM0100,MC-015,AR machine,MC
+SM0057,MC-016,Clean table + Ionizer,MC
+PM0101,EDG-025,Electronic heater,EDGE
+PM0102,EDG-026,EZ-FIT (2),EDGE
+PM0103,QC-005,Pad Printing Machine,QC
+PM0104,QC-006,Auto Lensmeter,QC
+PM0105,QC-007,Auto Lensmeter,QC
+PM0106,QC-008,Auto Lensmeter,QC
+PM0107,QC-009,Auto Lensmeter,QC
+PM0108,LOG-001,Card printer,LOGISTIC
+PM0109,LOG-002,Label printer (1),LOGISTIC
+PM0110,LOG-003,Label printer (2),LOGISTIC
+PM0111,LOG-004,Voucher printer,LOGISTIC
